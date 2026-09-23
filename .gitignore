@@ -1,0 +1,16 @@
+# Common
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+build/
